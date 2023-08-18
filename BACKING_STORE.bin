@@ -1,0 +1,20 @@
+<html><head><title>Request Rejected</title></head>
+<body style="text-align:center ;font-family:verdana;">
+<table border="0" width="450">
+<tr>
+<td height="100"><a href="http://www.haifa.ac.il"><img src="http://www.haifa.ac.il/images/univ_logo2.png" border="0" /></a></td>
+</tr>
+<tr>
+<td style="text-align:right">אירעה תקלה בהצגת הדף המבוקש. נא לפנות <a href=mailto:helpdesk@univ.haifa.ac.il">למוקד התמיכה</a> ולציין את קוד התקלה
+</tr>
+<tr>
+<td style="text-align:right">:קוד התקלה הוא 2314095862174138443</td>
+</tr>
+<tr>
+<td height="100">A problem has occurred displaying this page, please inform the <a href="mailto:helpdesk@univ.haifa.ac.il">Help desk</a> (phone number 972-4-8240609) with the support ID listed below.</td>
+</tr>
+<tr>
+<td>Your support ID is: 2314095862174138443</td>
+</tr>
+</table> 
+</body></html>
